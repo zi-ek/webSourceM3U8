@@ -342,21 +342,22 @@ GRTN生活频道,webview://https://www.gdtv.cn/tvChannelDetail/102
 聊城民生,webview://https://www.lcxw.cn/kands/?tag=1
 
 山西频道,#genre#
-山西卫视,webview://https://www.sxrtv.com/tv/index.shtml
-山西经济与科技,webview://https://apphhplushttps.sxrtv.com//television/live_wap_653.html
-山西影视,webview://https://apphhplushttps.sxrtv.com//television/live_wap_654.html
-山西社会与法治,webview://https://apphhplushttps.sxrtv.com//television/live_wap_655.html
-山西文体生活,webview://https://apphhplushttps.sxrtv.com//television/live_wap_656.html
-太原新闻综合,webview://https://www.sxtygdy.com/23/23mbdszb/index.shtml
-阳泉新闻综合,webview://https://www.yqrtv.com/folder74/folder139?id=10
-阳泉科教,webview://https://www.yqrtv.com/folder74/folder139?id=11
-太原新闻综合,webview://https://web.wx.sztv.com.cn/cms/rmt2018/23/23mbdszb/index.shtml
-黄河,webview://https://apphhplushttps.sxrtv.com//television/live_wap_651.html
-太原新闻综合,webview://https://apphhplushttps.sxrtv.com//a/b/a/live_wap_811850.html
-大同新闻综合,webview://http://share.dtradio.com.cn/?_hgOutLink=live/livedetail&channel_id=16
-大同公共,webview://http://share.dtradio.com.cn/?_hgOutLink=live/livedetail&channel_id=8
-大同生活,webview://http://share.dtradio.com.cn/?_hgOutLink=live/livedetail&channel_id=9
-晋中公共,webview://https://app.jztvnews.cn//television/live_wap_12442.html
+山西卫视,webview://https://www.sxrtv.com/tv/index.shtml#channel=q8RVWgs
+黄河电视台,webview://https://www.sxrtv.com/tv/index.shtml#channel=lce1mC4
+山西经济与科技,webview://https://www.sxrtv.com/tv/index.shtml#channel=4j01KWX
+山西影视,webview://https://www.sxrtv.com/tv/index.shtml#channel=Md571Kv
+山西社会与法治,webview://https://www.sxrtv.com/tv/index.shtml#channel=p4y5do9
+山西文体生活,webview://https://www.sxrtv.com/tv/index.shtml#channel=agmpyEk
+太原-1,webview://https://www.sxrtv.com/tv/index.shtml#channel=taiyuan
+朔州-1,webview://https://www.sxrtv.com/tv/index.shtml#channel=shuozhou
+忻州综合,webview://https://www.sxrtv.com/tv/index.shtml#channel=xinzhou
+阳泉新闻综合,webview://https://www.sxrtv.com/tv/index.shtml#channel=yangquan
+吕梁-1,webview://https://www.sxrtv.com/tv/index.shtml#channel=lvliang
+晋中综合,webview://https://www.sxrtv.com/tv/index.shtml#channel=jinzhong
+长治-1,webview://https://www.sxrtv.com/tv/index.shtml#channel=changzhi
+晋城新闻综合,webview://https://www.sxrtv.com/tv/index.shtml#channel=jincheng
+临汾-1,webview://https://www.sxrtv.com/tv/index.shtml#channel=linfen
+运城-1,webview://https://www.sxrtv.com/tv/index.shtml#channel=yuncheng
 
 陕西频道,#genre#
 陕西卫视,webview://http://live.snrtv.com/star
